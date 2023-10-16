@@ -3,6 +3,10 @@ console.log("merge oefening leuk!")
 
 oldgreeting.greet()
 
+function student1haiku()
+{
+    return["mannen zijn gay","ik ben gay","iedereen is gay"]
+}
 
 function basicHaiku()
 {
