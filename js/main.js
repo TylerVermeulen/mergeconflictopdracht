@@ -3,6 +3,10 @@ console.log("merge oefening leuk!")
 
 oldgreeting.greet()
 
+function student2Haiku()
+{
+    return["for the queen","bakedbeans","frank bouwers."]
+}
 
 function basicHaiku()
 {
